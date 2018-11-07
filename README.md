@@ -1,5 +1,4 @@
-# Projects
-## Sentiment Analysis on Diversity of survey data of Killkenny Bridge
+# Sentiment Analysis on Diversity of survey data of Killkenny Bridge
 
 ## Introduction:
 
