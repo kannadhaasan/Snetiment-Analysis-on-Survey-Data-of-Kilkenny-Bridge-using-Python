@@ -16,6 +16,9 @@ This thesis deals with analyzing the sentiments of recent project to construct a
 
 ### Step 5: Execute the code
 
+##Programming:
+Python
+
 ## Algorithms used: 
 
 Supervised learning:
